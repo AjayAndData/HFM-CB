@@ -1,0 +1,2 @@
+path/to/your/file filter=lfs diff=lfs merge=lfs -text
+t5-small/ filter=lfs diff=lfs merge=lfs -text
